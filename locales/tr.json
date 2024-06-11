@@ -1,0 +1,19 @@
+{
+    "error": {
+        "no_police": "Yetersiz Polis (%s gerekli)",
+        "process_canceled": "İşlem İptal Edildi...",
+        "lockpick_broken": "Kilit Açıcı Kırıldı"
+    },
+    "text": {
+        "register_empty": "Kasa boş",
+        "try_combination": "~g~E~w~ - Kombinasyon Deneniyor",
+        "safe_opened": "Kasa Açıldı",
+        "emptying_the_register": "Kasayı boşaltma işlemi...",
+        "safe_code": "Kasa Kodu: ",
+        "value": "Değer: %s€"
+    },
+    "alert": {
+        "register": "Birisi kasanın kilitlerini zorluyor!",
+        "safe": "Birisi kasanın kilitlerini açmaya çalışıyor!"
+    }
+}
